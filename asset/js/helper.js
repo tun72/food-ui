@@ -2,9 +2,7 @@ const token = localStorage.getItem("token") || null;
 
 let body = document.querySelector("body");
 
-// export const url = "http://localhost:4000"; //  //
-export const url = "https://food-admin-dashboard.onrender.com"
-
+export const url =  "http://localhost:4000"; // "https://food-recipe-admin-server-ae75c769cee1.herokuapp.com" //
 // Fetch
 export async function getUser(token) {
   try {
