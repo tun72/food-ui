@@ -58,6 +58,7 @@ document.querySelector(".save").addEventListener("click", async function (e) {
   if (save) {
     save.innerHtml = "";
     save.textContent = "loading...";
+    save.disabled= true;
 
     const id = save.parentElement.querySelector(".cart_id").value;
 
@@ -73,6 +74,7 @@ document.querySelector(".save").addEventListener("click", async function (e) {
         "afterbegin",
         `+<ion-icon name="cart-outline"></ion-icon>`
       );
+      save.disabled=false;
     } else {
       addShortPopup("Error occour");
     }

@@ -15,6 +15,8 @@ async function getUserDetail() {
   }
 
   const user = (await getUser(token)).user;
+
+  console.log(user.name);
   if (user) {
     userName.textContent = user.name || "user mame";
     profileName.textContent = user.name.slice(0, 1).toUpperCase();

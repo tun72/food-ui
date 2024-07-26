@@ -8,13 +8,13 @@ let user;
 
 // check nav
 async function prepareNav() {
-  if (token) {
 
+  if (token) {
     user = await getUser(token) || null;
     isUser =  user != null;
   }
 
-
+ 
   if (!isUser) {
     text = `<a href="authenticate.html" class="action-btn"
     ><ion-icon name="log-in-outline"></ion-icon

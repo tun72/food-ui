@@ -535,9 +535,7 @@ textarea {
   border-bottom: 2px solid #333;
   background: transparent; }
 
-.btn,
-.btn:focus,
-.btn:hover {
+.btn {
   background-color: #0de39d;
   border: none;
   align-self: flex-end;

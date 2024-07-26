@@ -2,20 +2,29 @@ const token = localStorage.getItem("token") || null;
 
 let body = document.querySelector("body");
 
-export const url =  "http://localhost:4000"; // "https://food-recipe-admin-server-ae75c769cee1.herokuapp.com" //
+// export const url = "http://localhost:4000"; //  //
+export const url = "https://food-admin-dashboard.onrender.com"
+
 // Fetch
 export async function getUser(token) {
-  const result = await fetch(`${url}/api/user`, {
-    method: "GET",
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: `Bearer ${token}`,
-    },
-  });
+  try {
+    const result = await fetch(`${url}/api/user`, {
+      method: "GET",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: `Bearer ${token}`,
+      },
+    });
 
-  const data = (await result.json()) || null;
-
-  return data;
+    if (result.ok) {
+      const data = (await result.json()) || null;
+      return data;
+    }
+    return null;
+  } catch (error) {
+    console.log(error.message);
+    return null;
+  }
 }
 
 export async function getIngredients(page) {
@@ -40,8 +49,9 @@ export async function getIngredientById(id) {
         "Content-Type": "application/json",
       },
     });
-
     data = await result.json();
+
+    console.log(data);
   } catch (err) {
     console.log(err);
   }
@@ -271,7 +281,7 @@ export function showSave() {
   let text = ` `;
   let data = JSON.parse(localStorage.getItem("save")) || [];
   if (!data.length) {
-    text += "No Saved Item Found";
+    text += `No Saved Items Found`;
   } else {
     data.forEach((e) => {
       text += `<tr>
@@ -308,14 +318,13 @@ export async function showCart() {
   document.querySelector(".all-carts").innerHTML = "";
 
   if (!token) {
+    //
 
-    // 
-  
     document.querySelector(".all-carts").innerHTML = renderError("Login First");
     document.querySelector(".checkout-btn").classList.add("disable-btn");
 
     console.log(document.querySelector(".checkout-btn"));
-    return
+    return;
   }
   checkCart();
   renderSpinner(document.querySelector(".all-carts"));

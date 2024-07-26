@@ -1,4 +1,4 @@
-12508
+12477
 125C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\weak-lru-cache\README.md133314880986499462 0
 125C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\abortcontroller-polyfill133314880987921191 1
 165C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\search.js133314880994901738 0
@@ -14,7 +14,7 @@
 155C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\stdout-stream\node_modules\string_decoder\package.json133314879941191452 0
 93C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset133377885660000000 1
 156C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\features\document-scrollingelement.js133314880998858253 0
-103C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\Contact_us.html133379798888208671 0
+103C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\Contact_us.html133384586669035772 0
 156C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Health & Medical\first-aid-kit-line.svg133364160915414287 0
 137C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-gyp\macOS_Catalina_acid_test.sh133314879948910683 0
 144C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\core\src\requests\PackageRequest.js133314881065870977 0
@@ -23,7 +23,7 @@
 124C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-gyp\lib\rebuild.js133314879946609384 0
 108C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\timsort133314880986499462 1
 95C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\.vscode133362286925574294 1
-105C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\authenticate.html133375382140000000 0
+105C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\authenticate.html133383096148821384 0
 125C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@lezer\lr\dist\index.cjs133314880985048827 0
 118C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@msgpackr-extract133364161245985644 1
 98C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\.gitignore133365444316903860 0
@@ -41,7 +41,7 @@
 130C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Communication133364161185508171 1
 149C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\User & Faces\bear-smile-fill.svg133364160889055302 0
 154C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\transformer-babel\node_modules\semver\LICENSE133314880984413792 0
-98C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\About.html133379799457536068 0
+98C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\About.html133384562821211059 0
 146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\transformer-svg\src\SVGTransformer.js133314881014490666 0
 170C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\stdout-stream\node_modules\readable-stream\lib\_stream_passthrough.js133314879942488557 0
 141C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\globals\node_modules\type-fest\base.d.ts133314880986227426 0
@@ -49,7 +49,7 @@
 128C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\minipass-fetch\lib\index.js133314879944373739 0
 156C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-select\node_modules\domutils\lib\esm\feeds.d.ts.map133314880988741112 0
 153C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\react-refresh\cjs\react-refresh-babel.development.js133314880985207619 0
-104C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\userProfile.html133379798109914323 0
+104C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\userProfile.html133384403663441040 0
 116C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\semver\index.js133314879945811968 0
 128C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\source-map-js\source-map.js133314880987019255 0
 136C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\socks-proxy-agent\dist\index.js.map133314879942488557 0
@@ -59,7 +59,7 @@
 118C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\npmlog\LICENSE.md133314879942385924 0
 118C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\commander\LICENSE133314880984371606 0
 126C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\resolve\test\mock_sync.js133314879947309042 0
-98C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\index.html133383027265423819 0
+98C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\index.html133457477231041516 0
 128C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-tree\lib\utils\names.js133314880997654236 0
 111C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\micromatch133314880985207619 1
 147C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\csso\node_modules\css-tree\cjs\utils\ident.cjs133314880991733973 0
@@ -74,40 +74,60 @@
 137C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-gyp\gyp\pylib\gyp\input_test.py133314879947868492 0
 138C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Logos\flickr-fill.svg133364160915504254 0
 137C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\features\beacon.js133314880992549418 0
-101C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\checkout.html133379798988541642 0
+101C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\checkout.html133384170190339739 0
 117C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\keysIn.js133314879956095969 0
+123C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\semver\ranges\valid.js133314879946830051 0
+106C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass\_feature.scss133378005160000000 0
+141C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Weather\drizzle-line.svg133364160907648983 0
+139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\cosmiconfig\dist\getDirectory.d.ts.map133314880989197340 0
+122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\is-arrayish\README.md133314879942189090 0
+144C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Device\rotate-lock-fill.svg133364161174183158 0
+115C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\background.jpg133372065660000000 0
+133C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Health & Medical133364161187673919 1
+139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Design\crop-2-fill.svg133364160899934118 0
+133C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\nth-check\lib\esm\parse.d.ts.map133314880988240515 0
+108C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\is-json133314880986003195 1
+146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Document\file-copy-2-line.svg133364160914290408 0
+114C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\color-convert133314879944227242 1
+152C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Communication\chat-forward-line.svg133364160896342748 0
+125C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\timsort\build\timsort.js133314880986163932 0
+139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\watcher\prebuilds\darwin-arm64133314880990467394 1
+138C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Logos\paypal-fill.svg133364160938915672 0
+138C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133314880989859645 0
+120C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\get-port\index.d.ts133314880984752151 0
+141C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\_\_ts_decorate\package.json133314881001105342 0
+138C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\src\libsass\docs\api-doc.md133314879950882496 0
+92C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\docs133384517950684795 1
+132C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\regions\CU.js133314880998386365 0
+129C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\readable-stream\lib\internal133314879944373739 1
+101C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\download.html133384520619771251 0
+142C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Map\map-pin-user-line.svg133364160932779868 0
+131C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\src\sass_types\map.h133314879949014635 0
+104C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass\_intro.scss133377979240000000 0
+129C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\semver\internal\constants.js133314879945062256 0
+107C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass\_customer.scss133378042680000000 0
+151C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Arrows\arrow-right-circle-fill.svg133364160883724465 0
+109C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass\_components.scss133384416344610406 0
 118C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\tar\lib\create.js133314879941719004 0
 111C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\agent-base133314879944571098 1
-152C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\User & Faces\emotion-laugh-line.svg133364160909488678 0
-97C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\test.html133382298842157355 0
 107C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@types133314879936016890 1
 121C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\toIterator.js133314879959723074 0
 144C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\test\fixtures\watching\white.scss133314879952488421 0
 147C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Document\folder-chart-line.svg133364160919527927 0
 133C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\yargs\build\lib\yargs-factory.js133314879946036641 0
 114C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\socks\typings133314879946376332 1
-100C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\history.html133379798683993156 0
+100C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\history.html133383095645306271 0
 132C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\core\src\projectPath.js133314881066306217 0
 146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Business\mail-forbid-line.svg133364160932351927 0
 151C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib133314880990623851 1
 115C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\true-case-path133314879944885705 1
-137C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\src\_async_iterator.mjs133314881001995478 0
-139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Map\map-pin-2-line.svg133364160932619078 0
-154C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\resolve\test\resolver\malformed_package_json\index.js133314879946957513 0
-136C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\resolve\test\precedence\bbb\main.js133314879947309042 0
-153C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\csso\node_modules\css-tree\lib\syntax\scope\value.js133314880998310025 0
-99C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\index1.html133382288086933297 0
-146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Business\slideshow-2-line.svg133364161178135220 0
-141C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Weather\celsius-fill.svg133364160896038808 0
-139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Others\outlet-fill.svg133364160938461392 0
-121C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\which\bin\node-which133314879941824144 0
 129C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\resolve\test\node_path\y\bbb133314879946794206 1
 143C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\read-pkg\node_modules\type-fest\index.d.ts133314879941719004 0
 123C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\partialRight.js133314879957520436 0
 149C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Communication\chat-poll-line.svg133364160896444274 0
 123C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\smart-buffer\README.md133314879945008544 0
 119C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\fp\union.js133314879960381899 0
-109C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\ingredientDetail.html133379798609971209 0
+109C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\ingredientDetail.html133383096264083552 0
 119C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\smart-buffer\build133314879944227242 1
 137C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Logos\baidu-line.svg133364160888529923 0
 121C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\forInRight.js133314879954048321 0
@@ -120,7 +140,7 @@
 108C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\map-obj133314879943359003 1
 125C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-tree\dist\csstree.js133314880996549196 0
 145C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Design\layout-right-line.svg133364160931027146 0
-111C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\ingredientMainpage.html133379787756743522 0
+111C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\ingredientMainpage.html133384595104740416 0
 158C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\yargs\node_modules\yargs-parser\build\lib\yargs-parser.js133314879944753551 0
 136C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\_\_non_iterable_spread133314881000585748 1
 148C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Arrows\arrow-up-circle-fill.svg133364160883895796 0
@@ -128,6 +148,7 @@
 131C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\csso\lib\replace\Percentage.js133314880993813352 0
 156C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\features\es6-module-dynamic-import.js133314880999373338 0
 143C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Finance\price-tag-fill.svg133364160949953724 0
+117C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\teams\photo5.jpg133384562108355312 0
 122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\yargs\locales\hu.json133314879946472179 0
 147C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\test\fixtures\depth-first\_vars.scss133314879951779239 0
 151C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.h133314881008550650 0
@@ -148,7 +169,7 @@
 130C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\svgo\plugins\removeDoctype.js133314880990782683 0
 142C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\electron-to-chromium\chromium-versions.js133314880984769746 0
 129C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\source-map\lib\mappings.wasm133314879945829483 0
-105C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass\_header.scss133379801317130543 0
+105C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass\_header.scss133383164771520755 0
 105C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\package-lock.json133377899080000000 0
 138C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Logos\wechat-fill.svg133364161186127359 0
 128C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\watcher\binding.gyp133314880988490809 0
@@ -156,18 +177,17 @@
 141C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Media\headphone-fill.svg133364160923934866 0
 137C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\validate-npm-package-license\LICENSE133314879942230956 0
 141C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Editor\english-input.svg133364160909633266 0
-103C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass\_base.scss133383028316092875 0
+103C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass\_base.scss133383153821013126 0
 121C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\fp\entries.js133314879953103712 0
 100C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\package.json133364161260000000 0
 142C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Buildings\home-3-fill.svg133364160924849430 0
-108C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\rescipeMainpage.html133379798423893842 0
+108C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\rescipeMainpage.html133459969036547417 0
 144C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\User & Faces\women-line.svg133364161187426860 0
 134C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\src\sass_types\number.h133314879949040576 0
 144C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\features\css-paint-api.js133314880997430458 0
 145C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\src\libsass\docs\dev-ast-memory.md133314879951197493 0
 132C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\regions\NC.js133314881004477309 0
 127C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\spdx-exceptions\index.json133314879940821788 0
-109C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products133379726087808262 1
 112C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\ansi-styles133314879943415517 1
 146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Document\file-unknow-fill.svg133364160914992674 0
 141C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Others\umbrella-line.svg133364161184819469 0
@@ -183,7 +203,7 @@
 121C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\fp\reverse.js133314879958302080 0
 168C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\read-pkg-up\node_modules\type-fest\source\require-at-least-one.d.ts133314879945547546 0
 138C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-gyp\gyp\pylib\gyp\MSVSProject.py133314879948303256 0
-92C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass133379726089957825 1
+92C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass133384424262828930 1
 114C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\nth-check\lib133314880989507055 1
 146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@babel\highlight\node_modules\chalk\readme.md133314879943588889 0
 116C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\aggregate-error133314879943359003 1
@@ -191,7 +211,7 @@
 127C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\picomatch\lib\picomatch.js133314880985845218 0
 147C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\core\lib\requests\ValidationRequest.js133314881067130583 0
 144C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\test\fixtures\simple\expected.css133314879948498499 0
-113C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\js\getUserDetail.js133375361700000000 0
+113C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\js\getUserDetail.js133384405993252177 0
 120C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\semver\package.json133314879946830051 0
 137C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\test\fixtures\watcher\main133314879952373372 1
 133C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Map\car-fill.svg133364160892267957 0
@@ -241,17 +261,10 @@
 155C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-gyp\gyp\tools\Xcode\Specifications\gyp.xclangspec133314879949130084 0
 115C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\minipass-flush133314879942695538 1
 140C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\src\libsass\script\tap-driver133314879945829483 0
-103C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass\_chef.scss133379808343972191 0
+103C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass\_chef.scss133383951763512873 0
 160C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\types.js133314880987760705 0
 120C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\dropRight.js133314879952910944 0
 146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Media\skip-back-mini-fill.svg133364161177828728 0
-142C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Map\map-pin-user-line.svg133364160932779868 0
-131C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\src\sass_types\map.h133314879949014635 0
-104C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass\_intro.scss133377979240000000 0
-129C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\semver\internal\constants.js133314879945062256 0
-107C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass\_customer.scss133378042680000000 0
-151C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Arrows\arrow-right-circle-fill.svg133364160883724465 0
-109C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass\_components.scss133379802972095835 0
 122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\cross-spawn\README.md133314879944946112 0
 141C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Media\landscape-fill.svg133364160930706411 0
 122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\yargs\locales\tr.json133314879946923052 0
@@ -260,17 +273,6 @@
 136C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\csso\node_modules\mdn-data\index.js133314880985527569 0
 115C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass\_detailIngredient.scss133378066120000000 0
 122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\fp\uniqWith.js133314879960641231 0
-123C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\semver\ranges\valid.js133314879946830051 0
-106C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass\_feature.scss133378005160000000 0
-141C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Weather\drizzle-line.svg133364160907648983 0
-139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\cosmiconfig\dist\getDirectory.d.ts.map133314880989197340 0
-122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\is-arrayish\README.md133314879942189090 0
-144C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Device\rotate-lock-fill.svg133364161174183158 0
-115C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\background.jpg133372065660000000 0
-133C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Health & Medical133364161187673919 1
-139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Design\crop-2-fill.svg133364160899934118 0
-133C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\nth-check\lib\esm\parse.d.ts.map133314880988240515 0
-108C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\is-json133314880986003195 1
 105C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass\_footer.scss133378015080000000 0
 129C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\decamelize-keys\node_modules133314879936022297 1
 150C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\esm\_define_enumerable_properties.js133314880996959475 0
@@ -311,7 +313,7 @@
 165C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\cleanupAttrs.js133314880987019255 0
 153C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\transformer-svg\node_modules\.bin\semver.cmd133314881335628048 0
 132C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\regions\PG.js133314881005234919 0
-106C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass\_product.scss133378061520000000 0
+106C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass\_product.scss133384125448900995 0
 123C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\msgpackr\dist\node.cjs133314880989727989 0
 126C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\balanced-match\LICENSE.md133314879942270197 0
 129C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\yargs-parser\build\index.cjs133314879941348634 0
@@ -327,7 +329,7 @@
 147C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Document\file-excel-2-line.svg133364160914401729 0
 127C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\socks\build\common\util.js133314879944885705 0
 146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Communication\chat-2-fill.svg133364160896182396 0
-105C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass\_recipe.scss133378049560000000 0
+105C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\sass\_recipe.scss133384026788433417 0
 143C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\yargs\node_modules\yargs-parser\browser.js133314879942093627 0
 126C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\posthtml-render\readme.md133314880985845218 0
 126C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\resolve\test\node_path.js133314879947429569 0
@@ -554,16 +556,6 @@
 126C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@npmcli\fs\lib\cp\LICENSE133314879941191452 0
 124C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\err-code\.eslintrc.json133314879943588889 0
 106C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\clone133314880985954784 1
-146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Document\file-copy-2-line.svg133364160914290408 0
-114C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\color-convert133314879944227242 1
-152C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Communication\chat-forward-line.svg133364160896342748 0
-125C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\timsort\build\timsort.js133314880986163932 0
-139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\watcher\prebuilds\darwin-arm64133314880990467394 1
-138C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Logos\paypal-fill.svg133364160938915672 0
-138C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133314880989859645 0
-120C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\get-port\index.d.ts133314880984752151 0
-141C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\_\_ts_decorate\package.json133314881001105342 0
-138C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\src\libsass\docs\api-doc.md133314879950882496 0
 143C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Document\folder-4-line.svg133364160919450166 0
 125C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\domelementtype\readme.md133314880986657093 0
 128C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\type-fest\source\basic.d.ts133314879944153995 0
@@ -940,7 +932,6 @@
 122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\svgo\lib\svgo-node.js133314880992851021 0
 154C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\cjs\_class_private_field_destructure.cjs133314880990623851 0
 130C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\csso\lib\clean\Declaration.js133314880993323888 0
-122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\sports-4.jpg133360159660000000 0
 120C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\picocolors\types.ts133314880986227426 0
 146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\transformer-postcss\src\loadConfig.js133314881016100841 0
 115C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\is-core-module133314879944835205 1
@@ -1073,7 +1064,7 @@
 146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Device\signal-wifi-1-fill.svg133364161176269965 0
 145C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Editor\input-cursor-move.svg133364160925610923 0
 138C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Others\knife-line.svg133364160930696422 0
-118C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\vendor\css\loginForm.css133374614120000000 0
+118C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\vendor\css\loginForm.css133384425273902303 0
 155C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\workers\test\integration\workerfarm\ipc-pid.js133314881001868979 0
 107C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash133314879961464630 1
 147C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Business\send-plane-2-fill.svg133364161174940355 0
@@ -1238,7 +1229,7 @@
 165C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\stdout-stream\node_modules\readable-stream\lib\_stream_duplex.js133314879941824144 0
 120C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\fp\before.js133314879951538317 0
 150C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-select\node_modules\entities\lib\index.js.map133314880992054782 0
-104C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\js\home.js133379733634837125 0
+104C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\js\home.js133383946466873967 0
 114C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-releases133314880986003195 1
 111C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\semver\bin133314879946609384 1
 143C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\User & Faces\user-line.svg133364161185222945 0
@@ -1572,6 +1563,7 @@
 142C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Document\article-line.svg133364160884055497 0
 126C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\yargs-parser\package.json133314879944885705 0
 150C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-gyp\node_modules\unique-filename\.nyc_output133314879943970161 1
+106C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\teams133384562506858298 1
 141C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\features\webworkers.js133314881008588319 0
 146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Design\contrast-drop-fill.svg133364160899254210 0
 125C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\iconv-lite\.idea\vcs.xml133314879946472179 0
@@ -1996,6 +1988,9 @@
 123C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\is-lambda\package.json133314879941045277 0
 148C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\System\share-forward-2-line.svg133364161175690016 0
 138C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-tree\lib\parser\parse-selector.js133314880997749709 0
+141C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Weather\celsius-fill.svg133364160896038808 0
+139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Others\outlet-fill.svg133364160938461392 0
+121C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\which\bin\node-which133314879941824144 0
 120C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\weak-lru-cache\dist133314880984371606 1
 120C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\nan\nan_callbacks.h133314879942488557 0
 150C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Others\voice-recognition-fill.svg133364161185767998 0
@@ -2063,6 +2058,7 @@
 145C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\utility-types\dist\functional-helpers.js.map133314880986657093 0
 139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Media\movie-2-fill.svg133364160935653341 0
 132C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\utility-types\dist\index.js.map133314880986803719 0
+108C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\imgs\fish.webp133384135934171430 0
 143C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Buildings\store-3-fill.svg133364161180001370 0
 139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Logos\codepen-fill.svg133364160897225557 0
 135C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\utility-types\dist\mapped-types.js133314880985699179 0
@@ -2144,7 +2140,6 @@
 141C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\type-fest\source\conditional-except.d.ts133314879944373739 0
 143C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Media\camera-lens-line.svg133364160892162838 0
 139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-tree\lib\syntax\node\IdSelector.js133314880997115909 0
-123C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\clothes-3.jpg133360159660000000 0
 123C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\supports-color\license133314879941150584 0
 116C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\plant.js133314879957677085 0
 138C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Logos\github-fill.svg133364160923239953 0
@@ -3445,6 +3440,11 @@
 173C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeElementsByAttr.js133314880991658879 0
 120C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\_\_jsx133314881000429502 1
 160C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\resolve\test\resolver\multirepo\packages\package-a\index.js133314879946957513 0
+137C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\src\_async_iterator.mjs133314881001995478 0
+139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Map\map-pin-2-line.svg133364160932619078 0
+154C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\resolve\test\resolver\malformed_package_json\index.js133314879946957513 0
+136C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\resolve\test\precedence\bbb\main.js133314879947309042 0
+153C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\csso\node_modules\css-tree\lib\syntax\scope\value.js133314880998310025 0
 143C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\System\settings-4-fill.svg133364161175406351 0
 148C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\resolve\test\resolver\invalid_main\package.json133314879948022700 0
 142C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\resolve\test\resolver\false_main\index.js133314879946957513 0
@@ -3798,6 +3798,7 @@
 124C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\_baseIsNative.js133314879947309042 0
 148C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\User & Faces\emotion-2-line.svg133364160909418535 0
 124C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\is-core-module\index.js133314879942864195 0
+152C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\User & Faces\emotion-laugh-line.svg133364160909488678 0
 146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\User & Faces\emotion-line.svg133364160909499035 0
 147C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Arrows\arrow-right-up-fill.svg133364160883828205 0
 153C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\User & Faces\emotion-normal-fill.svg133364160909511223 0
@@ -3832,6 +3833,7 @@
 132C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-tree\lib\tokenizer\names.js133314880997654236 0
 139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Others\cactus-line.svg133364160891853497 0
 128C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\https-proxy-agent\README.md133314879944690751 0
+115C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\icons\food.svg133384415325994895 0
 142C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\User & Faces\men-line.svg133364160933055078 0
 122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\browserslist\index.js133314880989451789 0
 138C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Others\cross-line.svg133364160899988600 0
@@ -4194,7 +4196,6 @@
 139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Design\markup-fill.svg133364160932844071 0
 151C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Arrows\arrow-right-double-line.svg133364160883767219 0
 145C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\System\logout-box-r-line.svg133364160931756356 0
-122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\shorts-2.jpg133360159660000000 0
 139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Design\markup-line.svg133364160932862834 0
 146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\System\logout-circle-line.svg133364160931766663 0
 151C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\read-pkg\node_modules\hosted-git-info\package.json133314879943588889 0
@@ -5601,7 +5602,6 @@
 123C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\entities\lib\decode.js133314880986227426 0
 168C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\_transforms.js133314880986386402 0
 140C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Editor\list-check-3.svg133364160931377373 0
-121C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\watch-1.jpg133360159660000000 0
 144C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Document\book-mark-fill.svg133364160889483965 0
 138C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Editor\list-check.svg133364160931387286 0
 117C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\update.js133314879960676726 0
@@ -5712,7 +5712,6 @@
 150C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.h133314881010542676 0
 149C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Arrows\arrow-left-right-line.svg133364160883675406 0
 145C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Document\file-chart-line.svg133364160914201128 0
-122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\sports-5.jpg133360159660000000 0
 145C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Document\file-close-fill.svg133364160914213210 0
 145C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Document\file-close-line.svg133364160914227797 0
 145C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Document\file-cloud-fill.svg133364160914237888 0
@@ -5790,7 +5789,6 @@
 146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Document\file-search-line.svg133364160914863997 0
 122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\path-key\package.json133314879942328735 0
 150C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Communication\chat-voice-fill.svg133364160896609743 0
-123C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\clothes-2.jpg133360159660000000 0
 135C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\packager-js\lib\helpers.js133314881027687279 0
 159C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\features\justify-content-space-evenly.js133314881002429791 0
 121C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\fp\initial.js133314879954705098 0
@@ -5822,7 +5820,6 @@
 120C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\fp\assign.js133314879951197493 0
 124C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\chrome-trace-event\dist133314880985954784 1
 146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Document\file-word-2-fill.svg133364160915094431 0
-122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\jacket-4.jpg133360159660000000 0
 123C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\mkdirp\lib\opts-arg.js133314879944328279 0
 146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Document\file-word-2-line.svg133364160915114421 0
 140C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Device\sd-card-line.svg133364161174778186 0
@@ -5981,7 +5978,6 @@
 143C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Device\gradienter-fill.svg133364160923442773 0
 140C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-tree\lib\lexer\generic-an-plus-b.js133314880996959475 0
 137C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\mdn-data\api\inheritance.schema.json133314880987877633 0
-121C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\watch-4.jpg133360159660000000 0
 140C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Device\hotspot-fill.svg133364160925212319 0
 140C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Device\hotspot-line.svg133364160925222304 0
 149C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-select\node_modules\entities\lib\encode.d.ts133314880992694600 0
@@ -6385,7 +6381,6 @@
 124C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\promise-retry\.jshintrc133314879941667653 0
 141C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Business\honour-line.svg133364160925142237 0
 153C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Business\customer-service-2-line.svg133364160900149670 0
-122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\jacket-1.jpg133360159660000000 0
 146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Business\donut-chart-fill.svg133364160907258516 0
 132C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\regions\RU.js133314881005987734 0
 141C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Business\flag-2-line.svg133364160915434372 0
@@ -6452,6 +6447,7 @@
 146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Business\slideshow-2-fill.svg133364161178121953 0
 123C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\test\scripts133314879950608784 1
 120C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\_reEscape.js133314879950465354 0
+146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Business\slideshow-2-line.svg133364161178135220 0
 146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Business\slideshow-3-fill.svg133364161178146671 0
 119C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\events\lib133314881063797095 1
 146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\remixicon\icons\Business\slideshow-3-line.svg133364161178151833 0
@@ -6615,8 +6611,6 @@
 136C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\readable-stream\readable-browser.js133314879945688749 0
 128C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\readable-stream\readable.js133314879945743464 0
 126C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\readable-stream\README.md133314879946036641 0
-132C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\regions\CU.js133314880998386365 0
-129C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\readable-stream\lib\internal133314879944373739 1
 106C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\chefs133379726086366935 1
 138C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\readable-stream\lib\_stream_duplex.js133314879941719004 0
 119C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lmdb\src\windows.c133314881003346869 0
@@ -7000,7 +6994,6 @@
 142C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\scripts\util\downloadoptions.js133314879950249595 0
 150C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-gyp\node_modules\make-fetch-happen\README.md133314879945333091 0
 150C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\test\fixtures\include-path\expected.css133314879948414747 0
-121C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\perfume.jpg133360159660000000 0
 142C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\core\lib\requests\AssetRequest.js133314881063770706 0
 148C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\test\fixtures\include-path\index.scss133314879951995881 0
 141C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\test\fixtures\include-path\lib133314879952471165 1
@@ -7049,7 +7042,6 @@
 138C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\runtime-js\lib\helpers\worker133314881023148149 1
 126C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\depd\lib\browser\index.js133314879944153995 0
 126C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\src\binding.cpp133314879946440345 0
-118C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\belt.jpg133360159660000000 0
 132C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\src\callback_bridge.h133314879948662994 0
 132C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\src\create_string.cpp133314879946609384 0
 130C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\src\create_string.h133314879948824908 0
@@ -7271,7 +7263,6 @@
 146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133314880995917596 0
 151C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\src\libsass\docs\api-context-internal.md133314879950767384 0
 151C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\src\libsass\docs\api-function-example.md133314879950882496 0
-115C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\3.jpg133360159660000000 0
 136C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\regions\alt-na.js133314880988876198 0
 151C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\src\libsass\docs\api-importer-example.md133314879950882496 0
 140C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\node-sass\src\libsass\docs\api-value.md133314879951039086 0
@@ -7922,7 +7913,6 @@
 117C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\assign.js133314879951197493 0
 121C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\assignWith.js133314879951376089 0
 118C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\attempt.js133314879951412754 0
-123C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\clothes-4.jpg133360159660000000 0
 118C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\bindAll.js133314879951562740 0
 118C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\lodash\bindKey.js133314879951606358 0
 112C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\Dessert.svg133371096320000000 0
@@ -8941,7 +8931,6 @@
 129C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\types\lib\index.d.ts133314881000273247 0
 122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\js-yaml\lib\common.js133314880985626039 0
 122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\js-yaml\lib\dumper.js133314880986499462 0
-121C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\shampoo.jpg133360159660000000 0
 125C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\js-yaml\lib\exception.js133314880986803719 0
 123C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\js-yaml\lib\snippet.js133314880989859645 0
 117C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\js-yaml\lib\type133314880990061137 1
@@ -9059,7 +9048,6 @@
 119C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\iconv-lite\LICENSE133314879940893385 0
 124C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\iconv-lite\package.json133314879946120087 0
 126C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\iconv-lite\lib\streams.js133314879945333091 0
-126C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\party-wear-2.jpg133360159660000000 0
 137C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-tree\lib\syntax\config\parser.js133314880997917474 0
 134C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\iconv-lite\encodings\dbcs-data.js133314879944035759 0
 152C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\src\_iterable_to_array_limit_loose.mjs133314881002991570 0
@@ -9208,7 +9196,7 @@
 152C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-select\node_modules\domutils\lib\feeds.d.ts.map133314880988876198 0
 160C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\globals\node_modules\type-fest\source\iterable-element.d.ts133314880988559906 0
 157C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\globals\node_modules\type-fest\source\literal-union.d.ts133314880988741112 0
-107C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\js\history.js133375362020000000 0
+107C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\js\history.js133384111285531769 0
 159C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\globals\node_modules\type-fest\source\merge-exclusive.d.ts133314880988958417 0
 159C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\sort.js133314880987280875 0
 132C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\regions\ZW.js133314881008828423 0
@@ -9485,7 +9473,6 @@
 160C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\csso\node_modules\css-tree\lib\syntax\node\ClassSelector.js133314880995839226 0
 132C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-tree\lib\syntax\node\CDC.js133314880995917596 0
 157C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\csso\node_modules\css-tree\lib\syntax\node\Combinator.js133314880995852058 0
-126C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\party-wear-1.jpg133360159660000000 0
 156C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\csso\node_modules\css-tree\lib\syntax\node\Dimension.js133314880996549196 0
 132C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\regions\WS.js133314881008750908 0
 155C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\csso\node_modules\css-tree\lib\syntax\node\Function.js133314880996655596 0
@@ -9755,7 +9742,6 @@
 128C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-tree\cjs\data-patch.cjs133314880989859645 0
 125C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\.bin\node-gyp-build-test133314881335628048 0
 122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-tree\cjs\data.cjs133314880990061137 0
-125C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\jewellery-2.jpg133360159660000000 0
 131C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-tree\cjs\definition-syntax133314880995526736 1
 115C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@gar\promisify133314879942632178 1
 119C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-tree\cjs\lexer133314880995214265 1
@@ -9780,7 +9766,7 @@
 144C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-tree\cjs\tokenizer\OffsetToLocation.cjs133314880994292672 0
 161C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\src\_class_static_private_field_destructure.mjs133314881002419425 0
 139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-tree\cjs\tokenizer\TokenStream.cjs133314880995057998 0
-110C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\js\ingredient.js133372475080000000 0
+110C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\js\ingredient.js133384162426715941 0
 129C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-tree\cjs\syntax\function133314880995370492 1
 125C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\css-tree\cjs\syntax\node133314880995526736 1
 146C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\features\css-paged-media.js133314880997418966 0
@@ -10018,7 +10004,6 @@
 126C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\cosmiconfig\dist\types.js133314880987280875 0
 130C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\cosmiconfig\dist\types.js.map133314880990306050 0
 117C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\core-util-is\lib133314879941506301 1
-115C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\1.jpg133360159660000000 0
 121C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\core-util-is\LICENSE133314879940821788 0
 123C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\core-util-is\README.md133314879943005815 0
 132C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\console-control-strings\LICENSE133314879942230956 0
@@ -10352,7 +10337,6 @@
 116C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\arrify\index.js133314879941542984 0
 158C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\features\css-font-rendering-controls.js133314880996479481 0
 147C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\features\css-font-stretch.js133314880996549196 0
-122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\jacket-3.jpg133360159660000000 0
 139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\features\css-grid.js133314880996655596 0
 154C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\features\css-hanging-punctuation.js133314880996655596 0
 138C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\features\css-has.js133314880996728864 0
@@ -10494,7 +10478,6 @@
 154C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\features\intersectionobserver-v2.js133314881002015635 0
 151C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\features\intersectionobserver.js133314881002015635 0
 147C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\features\intl-pluralrules.js133314881002015635 0
-122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\sports-6.jpg133360159660000000 0
 139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\features\jpeg2000.js133314881002332252 0
 137C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\features\jpegxl.js133314881002332252 0
 137C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\caniuse-lite\data\features\jpegxr.js133314881002332252 0
@@ -10795,7 +10778,7 @@
 141C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\_\_class_private_field_init133314880999527907 1
 117C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\src133314881003764703 1
 115C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\_133314881001790328 1
-110C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\js\checkLogin.js133382061710816973 0
+110C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\js\checkLogin.js133384400281989060 0
 136C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\_\_array_like_to_array133314880998858253 1
 170C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\walker\create.js133314880989859645 0
 133C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\_\_array_with_holes133314880999018428 1
@@ -10945,7 +10928,6 @@
 158C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\src\_class_static_private_field_spec_get.mjs133314881002429791 0
 158C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\src\_class_static_private_field_spec_set.mjs133314881002429791 0
 156C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\src\_class_static_private_field_update.mjs133314881002429791 0
-120C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\shoe-4.jpg133360159660000000 0
 135C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\src\_create_super.mjs133314881002492878 0
 131C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\src\_defaults.mjs133314881002492878 0
 151C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\src\_define_enumerable_properties.mjs133314881002598970 0
@@ -10970,7 +10952,6 @@
 138C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\src\_sliced_to_array.mjs133314881003346869 0
 128C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\src\_throw.mjs133314881003446847 0
 135C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\src\_to_primitive.mjs133314881003446847 0
-122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\shorts-1.jpg133360159660000000 0
 135C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\src\_ts_generator.mjs133314881003446847 0
 131C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\src\_ts_param.mjs133314881003589853 0
 132C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\src\_ts_values.mjs133314881003589853 0
@@ -10997,7 +10978,6 @@
 151C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\lib\_class_apply_descriptor_update.js133314880995682971 0
 138C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\lib\_class_call_check.js133314880995682971 0
 155C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\lib\_class_check_private_static_access.js133314880995852058 0
-122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\jacket-2.jpg133360159660000000 0
 165C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\lib\_class_check_private_static_field_descriptor.js133314880995852058 0
 152C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\lib\_class_extract_field_descriptor.js133314880995917596 0
 142C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@swc\helpers\lib\_class_name_tdz_error.js133314880995917596 0
@@ -11424,7 +11404,6 @@
 147C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\transformer-js\src\esmodule-helpers.js133314881035033764 0
 144C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\transformer-js\src\JSTransformer.js133314881035190417 0
 141C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\transformer-js\src\loadNative.js133314881035190417 0
-115C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\4.jpg133360159660000000 0
 156C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\transformer-js\node_modules\semver\CHANGELOG.md133314880986163932 0
 153C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\transformer-js\node_modules\semver\range.bnf133314880985158683 0
 153C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\transformer-js\node_modules\semver\semver.js133314880985626039 0
@@ -11953,7 +11932,6 @@
 155C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean133314880991913664 1
 161C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\compress.js133314880988559906 0
 186C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\2-initialMergeRuleset.js133314880985207619 0
-122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\sports-3.jpg133360159660000000 0
 181C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\3-disjoinRuleset.js133314880985527569 0
 184C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\4-restructShorthand.js133314880985845218 0
 182C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\8-restructRuleset.js133314880986657093 0
@@ -12154,6 +12132,7 @@
 139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\diagnostic\lib\diagnostic.d.ts133314881057916126 0
 126C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\core\package.json133314881067366512 0
 117C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\core\src133314881067130583 1
+108C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\imgs\beef.webp133384136315260268 0
 118C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\core\test133314881067130583 1
 137C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\core\test\AssetGraph.test.js133314881063683647 0
 139C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@parcel\core\test\EntryRequest.test.js133314881065281221 0
@@ -12341,7 +12320,6 @@
 126C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@lezer\lr\dist\stack.d.ts133314880987124434 0
 119C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@lezer\common\dist133314880987019255 1
 122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@lezer\common\LICENSE133314880984371606 0
-125C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\jewellery-3.jpg133360159660000000 0
 124C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@lezer\common\README.md133314880986324357 0
 130C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@lezer\common\dist\parse.d.ts133314880986803719 0
 129C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@lezer\common\dist\tree.d.ts133314880987019255 0
@@ -12364,7 +12342,7 @@
 152C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@babel\highlight\node_modules\color-name\.npmignore133314879941719004 0
 150C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@babel\highlight\node_modules\color-name\index.js133314879943588889 0
 149C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@babel\highlight\node_modules\color-name\LICENSE133314879943005815 0
-104C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\js\auth.js133375383800000000 0
+104C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\js\auth.js133384556136827730 0
 149C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@babel\highlight\node_modules\color-name\test.js133314879943970161 0
 157C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@babel\highlight\node_modules\color-convert\CHANGELOG.md133314879941719004 0
 159C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\@babel\highlight\node_modules\color-convert\conversions.js133314879942458637 0
@@ -12425,12 +12403,13 @@
 128C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\.bin\update-browserslist-db133314881335734517 0
 132C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\.bin\update-browserslist-db.cmd133314881335734517 0
 132C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\node_modules\.bin\update-browserslist-db.ps1133314881335734517 0
+105C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\docs\Group-3.pptx133383570360000000 0
 111C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\dist\index.36765fae.css133360405480000000 0
 119C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\dist\New folder (5).3464ddca.js133314881800000000 0
 123C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\dist\New folder (5).3464ddca.js.map133314881800000000 0
 97C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\css133379726085025654 1
-100C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images133381841999068899 1
-98C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\imgs133379726088571460 1
+100C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images133384407877278817 1
+98C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\imgs133384136510756374 1
 100C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\vendor133377885660000000 1
 115C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\vendor\js\ionicon1.js133363346360000000 0
 116C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\vendor\js\loginForm.js133362297460000000 0
@@ -12439,10 +12418,10 @@
 118C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\vendor\css\bootstrap.css133363861200000000 0
 119C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\vendor\css\references.css133362549060000000 0
 118C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\vendor\css\remixicon.css133364167500000000 0
-103C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\js\app.js133382121513791044 0
-108C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\js\checkout.js133382343551352030 0
-106C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\js\helper.js133382264577205962 0
-116C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\js\ingredientDetail.js133372045140000000 0
+103C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\js\app.js133384555404547851 0
+108C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\js\checkout.js133383091803742505 0
+106C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\js\helper.js133459968154296728 0
+116C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\js\ingredientDetail.js133384167319915981 0
 117C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\imgs\cheese_burger2.jpg133364187240000000 0
 116C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\imgs\company__logo.svg133362388260000000 0
 111C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\imgs\delivery.png133364240560000000 0
@@ -12452,6 +12431,7 @@
 114C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\imgs\header_logo.png133364093940000000 0
 115C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\imgs\icon_setting.svg133364199600000000 0
 117C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\imgs\message-2-fill.svg133365081720000000 0
+111C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\imgs\peanuts.webp133384135163926979 0
 108C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\imgs\pizza.svg133362459040000000 0
 109C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\imgs\simple.jpg133309703860000000 0
 108C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\imgs\steak.jpg133364189500000000 0
@@ -12465,7 +12445,7 @@
 113C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\eye_icon.svg133365786720000000 0
 109C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\fail.png133370276800000000 0
 110C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\happy.png133367728240000000 0
-106C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\icons133379786937873426 1
+106C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\icons133384424372424568 1
 109C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\Lamb.svg133371099600000000 0
 105C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\logo133379726086831907 1
 115C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\newsletter.png133360159660000000 0
@@ -12476,26 +12456,15 @@
 112C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\Starter.svg133371108420000000 0
 116C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\thailand_01.svg133362453100000000 0
 112C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\unknown.png133367638840000000 0
-115C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\2.jpg133360159660000000 0
-123C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\clothes-1.jpg133360159660000000 0
-122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\jacket-5.jpg133360159660000000 0
-122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\jacket-6.jpg133360159660000000 0
-125C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\jewellery-1.jpg133360159660000000 0
-121C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\shirt-1.jpg133360159660000000 0
-121C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\shirt-2.jpg133360159660000000 0
-120C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\shoe-1.jpg133360159660000000 0
-122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\shoe-1_1.jpg133360159660000000 0
-120C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\shoe-2.jpg133360159660000000 0
-122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\shoe-2_1.jpg133360159660000000 0
-120C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\shoe-3.jpg133360159660000000 0
-120C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\shoe-5.jpg133360159660000000 0
-122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\sports-1.jpg133360159660000000 0
-122C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\sports-2.jpg133360159660000000 0
-121C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\watch-2.jpg133360159660000000 0
-121C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\products\watch-3.jpg133360159660000000 0
+117C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\teams\photo1.jpg133384561552325930 0
+117C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\teams\photo2.jpg133384407961171326 0
+117C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\teams\photo3.jpg133384408087201232 0
+117C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\teams\photo4.jpg133384408042826750 0
+117C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\teams\photo6.jpg133384562373233182 0
 117C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\logo\favicon.ico133360159660000000 0
 120C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\logo\recipeLogo.jpg133375155780000000 0
 115C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\icons\diet.png133375157700000000 0
+116C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\icons\food1.svg133384425489340439 0
 117C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\icons\Fruits.svg133371113400000000 0
 115C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\icons\meat.svg133371121820000000 0
 117C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\icons\others.svg133371127300000000 0
@@ -12504,6 +12473,6 @@
 121C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\icons\vegetables.svg133371130060000000 0
 116C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\chefs\chef1.jpg133365897040000000 0
 116C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\images\chefs\chef4.jpg133365897100000000 0
-112C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\css\aboutStyle.css133378563740000000 0
-113C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\css\styleDetail.css133383028319343836 0
+112C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\css\aboutStyle.css133384411684515019 0
+113C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\asset\css\styleDetail.css133384580566973729 0
 109C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (5)\.vscode\settings.json133362286926039114 0

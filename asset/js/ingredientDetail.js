@@ -15,7 +15,7 @@ async function ingredientDetail() {
   if (id == 0) {
     window.location.href = "ingredientMainpage.html";
   }
-  const ingredient = (await getIngredientById(id)).ingredient;
+  const ingredient = (await getIngredientById(id));
 
   let text = `  <div class="detail">
   <div class="detail-img">

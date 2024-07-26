@@ -24,6 +24,8 @@ async function getHistory() {
   renderSpinner(document.querySelector(".mytable__body"));
 
   console.log(history);
+
+  
   history.forEach((e, f) => {
     console.log(e.ingredients);
     e.ingredients.forEach((i) => {

@@ -1,3 +1,4 @@
+
 const modal = document.querySelector(".recipe__modal");
 const overlay = document.querySelector(".overlay");
 const flagContainer = document.querySelector(".categories__slider");
@@ -12,8 +13,10 @@ const categoriesList = document.querySelector(".categories-list");
 const btnCategories = document.querySelector(".btn-categories");
 const sortBtn = document.querySelector(".btn-sort");
 const recipeVideo = document.querySelector(".recipe__video");
+
 let link = '';
-const url = "https://food-recipe-admin-server-ae75c769cee1.herokuapp.com"; //"http://localhost:4000"; //
+// const url = "http://localhost:4000"; // "https://food-recipe-admin-server-ae75c769cee1.herokuapp.com"; //
+const url = "https://food-admin-dashboard.onrender.com"
 
 const closeModal = function () {
   modal.classList.add("hidden");
